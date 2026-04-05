@@ -33,6 +33,6 @@ Check out our **[demos](https://github.com/P-01SDK/demos)** for full examples: p
 
 ## Links
 
-[![Website](https://img.shields.io/badge/Website-protocol--01.vercel.app-00D4AA?style=flat)](https://protocol-01.vercel.app)
+[![Website](https://img.shields.io/badge/Website-protocol--01.vercel.app-00D4AA?style=flat)](https://protocol-01.dev)
 [![Twitter](https://img.shields.io/badge/Twitter-@Protocol01__-000000?style=flat&logo=x)](https://x.com/Protocol01_)
 [![npm](https://img.shields.io/badge/npm-@protocol--01-CB3837?style=flat&logo=npm)](https://www.npmjs.com/org/protocol-01)
